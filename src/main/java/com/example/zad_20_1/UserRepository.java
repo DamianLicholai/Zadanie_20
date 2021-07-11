@@ -17,6 +17,4 @@ public class UserRepository {
     public void add(User user) {
         userList.add(user);
     }
-
-
 }
